@@ -1,0 +1,3 @@
+change stuff in portfolio js 
+npm run deploy
+commit changes to main branch
